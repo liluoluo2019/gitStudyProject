@@ -3,5 +3,6 @@ public class HelloWorld() {
 	  System.out.println("helloWorld!");
 	  System.out.println("helloWorld.txt");
 	  System.out.println("测试修改！！");
+ 	  System.out.println("测试添加！！");
 	}
 }
